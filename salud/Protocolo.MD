@@ -2,16 +2,22 @@
 # Protocolo de salud diaria
 
 ## resumen
-+agua
-+curcuma
-+caminata
-+libre
-+comida
-pastillas AVERIGUAR
-+bucal
-+caminata
-+ejercicio
-+pelo
++ protector
++ agua
++ curcuma
++ caminata
++ libre
++ comida
++ pastillas
++ bucal
++ caminata
++ ejercicio
++ pelo
++ crema
++ mangas largas
+
+## Protectores y crema
++ factor máximo en brasos, luego de crema hidratante, proteger partes expuestas a la luz
 
 ## luego de comer
 enjuagar la boca.
