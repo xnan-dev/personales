@@ -99,10 +99,12 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + inflamacion de lengua ? 
 + sabor metálico de boca
 
-## observacioes:
+## observaciones
 + posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
 + el cafe tarda mas en procesarse segun la capacidad hepática (OJO con problema de alergia al café)
 * NAFLD: higado graso, depositos grasos en el higado (enfermedad hepatica no alcoholica)
+
+---
 
  ### Sintaxis
 
@@ -113,4 +115,3 @@ lista:
 + texto 2
 + texto 3
 
-<
