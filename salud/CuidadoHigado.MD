@@ -20,7 +20,8 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + brocolli o repollo de bruselas
 * tomates 
 * hojas verdes.
-prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos.
+prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier
+fuente grasa adicional.
 
 ## Cuidado hepático
 protectores:
