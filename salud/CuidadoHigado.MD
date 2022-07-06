@@ -4,17 +4,15 @@
 + Una batata cascara violeta grande
 + dos cucharadas de aceite de oliva, una con cucharadita de curcuma
 + resto Vegetales
-+ arroz yamani o negro
-+ dos comidas diarias
-+ tres litros de agua medida (bidón sierra de los padres)
-+ infusiones: té verde (max: 3)
-+ almendras: maximo 5
-+ jengibre
++ hasta dos comidas diarias
 + ilmones: máximo 3, con jengibre (puede usarse en limonadas)
-+ frutas: frutillas (dos tazas), citricos (max 2 unidades)
++ tres litros de agua medida (bidón sierra de los padres)
 + avena ablandada en agua hervida (media taza)
-+ taza de legumbres
-* legumbres
++ opt: taza de legumbres
++ opt: infusiones: té verde (max: 3)
++ opt: arroz yamani o negro
++ opt: almendras: maximo 5
++ opt: frutas: frutillas (dos tazas), citricos (max 2 unidades)
 salidas: limonada menta y jengibre, te, sprite light
 
 prohibidisimos:
@@ -24,10 +22,10 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + Una sola comida al día
 + bola de lomo o cuadril: hasta 1/3kg (carne magra)
 + brocolli o repollo de bruselas
-+ tomates 
-+ hojas verdes.
-+ frutillas (hasta dos tazas)
 + avena ablandada en agua hervida (media taza)
++ opt: tomates 
++ opt: hojas verdes.
++ opt: frutillas (hasta dos tazas)
 salidas: limonada menta y jengibre, te, sprite light)
 
 prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier fuente grasa adicional, carnes grasas si no hacemos unica comida.
