@@ -34,7 +34,8 @@ perjudiciales:
 + fast food (hamburguesas, nuggets, etc) (encimas hepáticas, NAFLD OJO! )
 + grasa animal
 * grasa vegetal (menos grave que grasa animal)
-
+* exceso de colesterol dietario (huevos, carnes, lacteos)
+* 
 observacioes:
 * posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
 + el cafe tarda mas en procesarse segun la capacidad hepática (OJO con problema de alergia al café)
