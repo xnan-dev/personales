@@ -5,7 +5,9 @@
 + dos cucharadas de aceite de oliva, una con cucharadita de curcuma
 + resto Vegetales
 + hasta dos comidas diarias
-+ ilmones: máximo 3, con jengibre (puede usarse en limonadas)
++ semillas de lino (2 cucharadas)
++ semillas de chia (2 cucharadas, en agua caliente)
++ + ilmones: máximo 3, con jengibre (puede usarse en limonadas)
 + tres litros de agua medida (bidón sierra de los padres)
 + avena ablandada en agua hervida (media taza)
 + opt: taza de legumbres
@@ -20,6 +22,8 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 
 ## Dieta de cuidado hepático (Low Carb)
 + Una sola comida al día
++ semillas de lino (2 cucharadas)
++ semillas de chia (2 cucharadas, en agua caliente)
 + bola de lomo o cuadril: hasta 1/3kg (carne magra)
 + brocolli o repollo de bruselas
 + avena ablandada en agua hervida (media taza)
