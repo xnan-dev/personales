@@ -1,6 +1,6 @@
 ## Protocolo de Limpieza Hepática
 
-## Dieta de Cuidado Hepático (High Carb)
+## Dieta de Cuidado Hepático (High Carb), PREFERENTE.
 + Una batata cascara violeta grande
 + dos cucharadas de aceite de oliva, una con cucharadita de curcuma
 + resto Vegetales
@@ -22,6 +22,7 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 * hojas verdes.
 prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier
 fuente grasa adicional.
+* salidas: limonada sin azucar o sprite sin azucar, té. 
 
 ## Cuidado hepático
 protectores:
