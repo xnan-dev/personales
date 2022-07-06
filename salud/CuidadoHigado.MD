@@ -4,7 +4,7 @@
 + Una batata cascara violeta grande
 + dos cucharadas de aceite de oliva, una con cucharadita de curcuma
 + resto Vegetales
-+ media taza de arroz (no frutas)
++ arroz yamani o negro
 + dos comidas diarias
 + tres litros de agua medida (bidón sierra de los padres)
 + infusiones: té verde (max: 3)
