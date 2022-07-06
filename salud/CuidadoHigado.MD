@@ -72,6 +72,7 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + frutillas (gral: berries, investigar)
 + avena (gral: cereales integrales) (mejora de funcoin hepatica)
 + ayuno (quema de depositos grasos, descanso hepatico presumo)
++ ayuno prolongado (idem anterior)
 + legumbres
 * semillas de lino (baja en colesterol)
 * chia ? (investigar, harina de chia?)
@@ -95,9 +96,11 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + problemas alergia al café y al maní
 + parpados irritados teniendo buena hidratacion
 + reacciones a las comidas muy grasas
++ inflamacion de lengua ? 
++ sabor metálico de boca
 
 ## observacioes:
-* posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
++ posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
 + el cafe tarda mas en procesarse segun la capacidad hepática (OJO con problema de alergia al café)
 * NAFLD: higado graso, depositos grasos en el higado (enfermedad hepatica no alcoholica)
 
