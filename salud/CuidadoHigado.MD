@@ -44,6 +44,7 @@ protectores:
 * coloración roja en la piel
 * acné (secundario)
 * problemas alergia al café y al maní
+* parpados irritados teniendo buena hidratacion
 
 
 * 
