@@ -9,21 +9,24 @@
 + tres litros de agua medida (bidón sierra de los padres)
 + infusiones: té verde (max: 3)
 * almendras: maximo 5
+* ilmones: máximo 2 (puede usarse en limonadas)
 
 prohibidisimos:
 café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol
 
-## Dieta de cuidado (Low Carb)
+## Dieta de cuidado hepático (Low Carb)
 + Una sola comida al día
-+ comida: bola de lomo o cuadril: hasta 1/3kg (carne magra)
++ bola de lomo o cuadril: hasta 1/3kg (carne magra)
 + brocolli o repollo de bruselas
+* tomates 
+* ojas verdes.
 
 ## Cuidado hepático
-
 protectores:
-+ brocolli (gral: cruciferos)
++ brocolli (gral: cruciferos IMPORTANTE)
 + repollo de bruselas 
-* batata purpura (baja inflamacion del higado)
++ batata purpura (baja inflamacion del higado IMPORTANTE)
+* frutillas (gral: berries, investigar)
 
 perjudiciales:
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
