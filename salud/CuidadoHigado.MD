@@ -8,11 +8,13 @@
 + dos comidas diarias
 + tres litros de agua medida (bidón sierra de los padres)
 + infusiones: té verde (max: 3)
-* almendras: maximo 5
-* jengibre
-* ilmones: máximo 3, con jengibre (puede usarse en limonadas)
++ almendras: maximo 5
++ jengibre
++ ilmones: máximo 3, con jengibre (puede usarse en limonadas)
 + frutas: frutillas (dos tazas), citricos (max 2 unidades)
-* avena ablandada en agua hervida (meida taza)
++ avena ablandada en agua hervida (meida taza)
++ taza de legumbres
+* legumbres
 salidas: limonada menta y jengibre, te, sprite light
 
 prohibidisimos:
@@ -22,14 +24,13 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + Una sola comida al día
 + bola de lomo o cuadril: hasta 1/3kg (carne magra)
 + brocolli o repollo de bruselas
-* tomates 
-* hojas verdes.
-* frutillas (hasta dos tazas)
-* avena ablandada en agua hervida (hasta meida taza)
++ tomates 
++ hojas verdes.
++ frutillas (hasta dos tazas)
++ avena ablandada en agua hervida (hasta meida taza)
 salidas: limonada menta y jengibre, te, sprite light)
 
-prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier
-fuente grasa adicional.
+prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier fuente grasa adicional, carnes grasas si no hacemos unica comida.
 * salidas: limonada sin azucar o sprite sin azucar, té. 
 
 ## Cuidado hepático
@@ -38,18 +39,20 @@ protectores:
 * jengibre (baja de grasa hepatica, mejora funcion hepatica, indices inflamatorios)
 + repollo de bruselas 
 + batata purpura (baja inflamacion del higado IMPORTANTE)
-* frutillas (gral: berries, investigar)
-* avena (gral: cereales integrales) (mejora de funcoin hepatica)
-* ayuno (quema de depositos grasos, descanso hepatico presumo)
-*
++ frutillas (gral: berries, investigar)
++ avena (gral: cereales integrales) (mejora de funcoin hepatica)
++ ayuno (quema de depositos grasos, descanso hepatico presumo)
++ legumbres
+
 *  perjudiciales:
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
 + fast food (hamburguesas, nuggets, etc) (encimas hepáticas, NAFLD OJO! )
 + grasa animal
-* grasa vegetal (menos grave que grasa animal)
-* exceso de colesterol dietario (huevos, carnes, lacteos)
-* exceso de alimento
-* cereales refinados, harinas
++ grasas saturadas
++ grasa vegetal (menos grave que grasa animal)
++ exceso de colesterol dietario (huevos, carnes, lacteos)
++ exceso de alimento
++ cereales refinados, harinas
 
 ## muy perjudiciales
 + grasas animales, lacteos teniendo ya higado graso IMPORTANTE (puede derivar en enfermedad más grave).
