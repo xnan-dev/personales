@@ -1,13 +1,24 @@
 ## Protocolo de Limpieza Hepática
+AGREGAR 
+
+---
 
 ## Dieta de Cuidado Hepático (High Carb), PREFERENTE.
+
+### objetivos
++ eliminar sobrepeso
++ descansar higado
++ eliminar depositos de grasa en el higado
++ mejorar funciones hepáticas
+
+### dieta
 + Una batata cascara violeta grande
 + dos cucharadas de aceite de oliva, una con cucharadita de curcuma
 + resto Vegetales
 + hasta dos comidas diarias
 + semillas de lino (2 cucharadas)
 + semillas de chia (2 cucharadas, en agua caliente)
-+ + ilmones: máximo 3, con jengibre (puede usarse en limonadas)
++ ilmones: máximo 3, con jengibre (puede usarse en limonadas)
 + tres litros de agua medida (bidón sierra de los padres)
 + avena ablandada en agua hervida (media taza)
 + opt: taza de legumbres
@@ -15,12 +26,23 @@
 + opt: arroz yamani o negro
 + opt: almendras: maximo 5
 + opt: frutas: frutillas (dos tazas), citricos (max 2 unidades)
-salidas: limonada menta y jengibre, te, sprite light
 
-prohibidisimos:
+## salidas 
+limonada menta y jengibre, te, sprite light (o permitidos)
+
+### prohibidisimos
 café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos.
 
+--- 
 ## Dieta de cuidado hepático (Low Carb)
+
+### objetivos
++ eliminar sobrepeso
++ descansar higado
++ eliminar depositos de grasa en el higado
++ mejorar funciones hepáticas
+
+### dieta
 + Una sola comida al día
 + semillas de lino (2 cucharadas)
 + semillas de chia (2 cucharadas, en agua caliente)
@@ -30,13 +52,19 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + opt: tomates 
 + opt: hojas verdes.
 + opt: frutillas (hasta dos tazas)
-salidas: limonada menta y jengibre, te, sprite light)
 
-prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier fuente grasa adicional, carnes grasas si no hacemos unica comida.
-* salidas: limonada sin azucar o sprite sin azucar, té. 
+## salidas
+limonada menta y jengibre, te, sprite light (o permitidos)
+
+### prohibidisimos
+café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier fuente grasa adicional, carnes grasas si no hacemos unica comida.
+
+---
+
 
 ## Cuidado hepático
-protectores:
+
+### protectores
 + brocolli (gral: cruciferos IMPORTANTE)
 * jengibre (baja de grasa hepatica, mejora funcion hepatica, indices inflamatorios)
 + repollo de bruselas 
@@ -47,8 +75,8 @@ protectores:
 + legumbres
 * semillas de lino (baja en colesterol)
 * chia ? (investigar, harina de chia?)
-* 
-*  perjudiciales:
+
+###  perjudiciales
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
 + fast food (hamburguesas, nuggets, etc) (encimas hepáticas, NAFLD OJO! )
 + grasa animal
@@ -58,18 +86,17 @@ protectores:
 + exceso de alimento
 + cereales refinados, harinas
 
-## muy perjudiciales
+### muy perjudiciales
 + grasas animales, lacteos teniendo ya higado graso IMPORTANTE (puede derivar en enfermedad más grave).
 
 ## Sintomas de enfermedad hepática (impresiones personales)
-* coloración roja en la piel
-* acné (secundario)
-* problemas alergia al café y al maní
-* parpados irritados teniendo buena hidratacion
++ coloración roja en la piel
++ acné (secundario)
++ problemas alergia al café y al maní
++ parpados irritados teniendo buena hidratacion
++ reacciones a las comidas muy grasas
 
-
-* 
-observacioes:
+## observacioes:
 * posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
 + el cafe tarda mas en procesarse segun la capacidad hepática (OJO con problema de alergia al café)
 * NAFLD: higado graso, depositos grasos en el higado (enfermedad hepatica no alcoholica)
