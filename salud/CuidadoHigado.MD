@@ -46,7 +46,8 @@ protectores:
 + ayuno (quema de depositos grasos, descanso hepatico presumo)
 + legumbres
 * semillas de lino (baja en colesterol)
-
+* chia ? (investigar, harina de chia?)
+* 
 *  perjudiciales:
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
 + fast food (hamburguesas, nuggets, etc) (encimas hepáticas, NAFLD OJO! )
