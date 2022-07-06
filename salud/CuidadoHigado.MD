@@ -45,6 +45,7 @@ protectores:
 + avena (gral: cereales integrales) (mejora de funcoin hepatica)
 + ayuno (quema de depositos grasos, descanso hepatico presumo)
 + legumbres
+* semillas de lino (baja en colesterol)
 
 *  perjudiciales:
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
