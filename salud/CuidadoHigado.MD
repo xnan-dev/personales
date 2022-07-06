@@ -30,12 +30,22 @@ protectores:
 + batata purpura (baja inflamacion del higado IMPORTANTE)
 * frutillas (gral: berries, investigar)
 
-perjudiciales:
+## perjudiciales:
 + bebidas azucaradas (enzimas hepáticas, NAFLD)
 + fast food (hamburguesas, nuggets, etc) (encimas hepáticas, NAFLD OJO! )
 + grasa animal
 * grasa vegetal (menos grave que grasa animal)
 * exceso de colesterol dietario (huevos, carnes, lacteos)
+
+## muy perjudiciales
++ grasas animales, lacteos teniendo ya higado graso IMPORTANTE (puede derivar en enfermedad más grave).
+
+## Sintomas de enfermedad hepática (impresiones personales)
+* coloración roja en la piel
+* acné (secundario)
+* problemas alergia al café y al maní
+
+
 * 
 observacioes:
 * posible sintomas: coloración rojiza en la cara, acné, coloración verdosa en la piel 
