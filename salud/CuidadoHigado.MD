@@ -10,6 +10,7 @@
 + infusiones: té verde (max: 3)
 * almendras: maximo 5
 * ilmones: máximo 2 (puede usarse en limonadas)
++ frutas: frutillas (dos tazas), citricos (max 2 unidades)
 
 prohibidisimos:
 café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos.
@@ -20,6 +21,7 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + brocolli o repollo de bruselas
 * tomates 
 * hojas verdes.
+* frutillas (hasta dos tazas)
 prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier
 fuente grasa adicional.
 * salidas: limonada sin azucar o sprite sin azucar, té. 
