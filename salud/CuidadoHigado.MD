@@ -12,7 +12,7 @@
 + jengibre
 + ilmones: máximo 3, con jengibre (puede usarse en limonadas)
 + frutas: frutillas (dos tazas), citricos (max 2 unidades)
-+ avena ablandada en agua hervida (meida taza)
++ avena ablandada en agua hervida (media taza)
 + taza de legumbres
 * legumbres
 salidas: limonada menta y jengibre, te, sprite light
@@ -27,7 +27,7 @@ café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres
 + tomates 
 + hojas verdes.
 + frutillas (hasta dos tazas)
-+ avena ablandada en agua hervida (hasta meida taza)
++ avena ablandada en agua hervida (media taza)
 salidas: limonada menta y jengibre, te, sprite light)
 
 prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol, huevos, lacteos, cualquier fuente grasa adicional, carnes grasas si no hacemos unica comida.
