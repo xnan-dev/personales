@@ -12,14 +12,15 @@
 * ilmones: máximo 2 (puede usarse en limonadas)
 
 prohibidisimos:
-café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol
+café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol.
 
 ## Dieta de cuidado hepático (Low Carb)
 + Una sola comida al día
 + bola de lomo o cuadril: hasta 1/3kg (carne magra)
 + brocolli o repollo de bruselas
 * tomates 
-* ojas verdes.
+* hojas verdes.
+prohibidisimos: café, nuts (salvo las almendras permitidas), chocolate, postres dulces, postres grasos, mantecol, alcohol.
 
 ## Cuidado hepático
 protectores:
