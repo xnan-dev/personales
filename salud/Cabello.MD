@@ -38,3 +38,4 @@ Smoking
 Chemical hair dyes and hair products
 Hydrogen peroxide, which is in many hair dyes, is one such harmful chemical. Excessive use of products that bleach hair will also eventually cause it to turn white.
 
+https://articulo.mercadolibre.com.ar/MLA-843962849-amla-500g-100-natural-_JM#position=2&search_layout=grid&type=item&tracking_id=5eedd25d-ffbc-4914-b005-a598feb6616e
