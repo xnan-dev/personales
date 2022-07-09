@@ -10,15 +10,15 @@
 - Amla en polvo: 1 cucharadita.
 - Curcuma en polvo: 1 cucharadita en cucharada de aceite de oliva
 
-- Avena: media taza, con agua hervida, canela (1 cucharadita)
-- Zanahorias, zapallo , batata cascara violeta, mandarinas/naranjas (4, no comer todas juntas)
-- Porotos negros/colorados: 1 taza
-- Verduras en cantidad, libres
-- Frutas: máximo 4 piezas.
+- TLD: Avena: media taza, con agua hervida, canela (1 cucharadita)
+- TLD: Zanahorias, zapallo , batata cascara violeta,pepinillos  mandarinas/naranjas (4, no comer todas juntas)
+- TLD: Porotos negros/colorados: 1 taza
+- TLD: Verduras en cantidad, libres
+- TLD: Frutas: máximo 4 piezas.
 
-- 2 vaso de Leche de almendras con B12
+- TLD: 2 vaso de Leche de almendras con B12
 
-- opt: arroz yamaní.
+- opt: arroz yamaní, limonada
 
 ## prohibidisimos
 situaciones de stress, ver gente estresante, café, tés, mates, alcohol.
