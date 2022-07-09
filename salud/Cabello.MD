@@ -4,7 +4,7 @@
 - Bronceador solar en zonas que se van a exponer al sol
 - Meditación y elongación: 30 minutos c/u
 - aire libre, descanso, evitar pantallas, ver amigos tranquilos.
-
+- lavar cabello con agua tibia, aparte, y dejar actuando baño vegetal 30min.
 ## comidas
 - Higado, 3 veces en la primer semana (1/3kg cada vez)
 
