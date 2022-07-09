@@ -1,7 +1,30 @@
-# Dieta cuidado Cabello
+# Dieta Cabello Gris (High Carb)
 
-# Cabello
-## Mejora caida de cabello
+- Sol: 1 hora diaria sobre el cabello y zonas blancas con cuidado
+- Bronceador solar en zonas que se van a exponer al sol
+- Meditación y elongación: 30 minutos c/u
+
+## comidas
+- Higado, 3 veces en la primer semana (1/3kg cada vez)
+
+- Amla en polvo: 1 cucharadita.
+- Curcuma en polvo: 1 cucharadita en cucharada de aceite de oliva
+
+- Avena: media taza, con agua hervida, canela (1 cucharadita)
+- Zanahorias, zapallo , batata cascara violeta, mandarinas/naranjas (4, no comer todas juntas)
+- Porotos negros/colorados: 1 taza
+- Verduras en cantidad, libres
+- Frutas: máximo 4 piezas.
+
+- 2 vaso de Leche de almendras con B12
+
+- opt: arroz yamaní.
+
+## prohibidisimos
+situaciones de stress, ver gente estresante, café, tés, mates, alcohol.
+
+# Caida de Cabello
+## beneficiosos
 - ingesta de vegetales
 - transplante de materia fecal
 - leche de soja
@@ -14,9 +37,19 @@
 - baja vitamina C 
 
 # Cabello Gris
-- B12 a nivel correcto (IMPORTANTE)
-- Stress (reversible!)
+
+## beneficiosos
+- Higado, suplementos B12 . B12 a nivel correcto (IMPORTANTE)
+- Vitamina D a nivel correcto
+- Bajo Stress (reversible!)
 - Pepinillos?
+- Exposiciòn al sol, bronceado (vitamina D, produccion de melanina para protegerse)
+
+## perjudiciales
+- Café (norepinefrina > stress, produce depletion de melanocytes)
+- Stress (idem anterior)
+-
+https://elifesciences.org/articles/67437
 
 Black sesame seeds              - https://amzn.to/2XZsOyr
 Apple Cider vineger               - https://amzn.to/3cLmNtj
