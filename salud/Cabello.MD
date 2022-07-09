@@ -10,6 +10,8 @@
 
 - Amla en polvo: 1 cucharadita.
 - Curcuma en polvo: 1 cucharadita en cucharada de aceite de oliva
+- Sesamo negro: 2 cucharadas
+- Miel de caña: 1 cucharada
 
 - TLD: Avena: media taza, con agua hervida, canela (1 cucharadita)
 - TLD: Zanahorias, zapallo , batata cascara violeta,pepinillos  mandarinas/naranjas (4, no comer todas juntas)
@@ -36,6 +38,7 @@ situaciones de stress, ver gente estresante, café, tés, mates, alcohol.
 - baja vitamina B12 (importante!)
 - pescado (mercurio, reversible en meses)
 - baja vitamina C 
+- baja hierro
 
 # Cabello Gris
 
