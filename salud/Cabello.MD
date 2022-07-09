@@ -1,8 +1,9 @@
 # Dieta Cabello Gris (High Carb)
-
+## actividades
 - Sol: 1 hora diaria sobre el cabello y zonas blancas con cuidado
 - Bronceador solar en zonas que se van a exponer al sol
 - Meditación y elongación: 30 minutos c/u
+- aire libre, descanso, evitar pantallas, ver amigos tranquilos.
 
 ## comidas
 - Higado, 3 veces en la primer semana (1/3kg cada vez)
