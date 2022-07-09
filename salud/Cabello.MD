@@ -12,14 +12,15 @@
 - Curcuma en polvo: 1 cucharadita en cucharada de aceite de oliva
 - Sesamo negro: 2 cucharadas
 - Miel de caña: 1 cucharada
-
+- semillas de zapallo: 2 cucharadas
+-
 - TLD: Avena: media taza, con agua hervida, canela (1 cucharadita)
 - TLD: Zanahorias, zapallo , batata cascara violeta,pepinillos  mandarinas/naranjas (4, no comer todas juntas)
 - TLD: Porotos negros/colorados: 1 taza
 - TLD: Verduras en cantidad, libres
 - TLD: Frutas: máximo 4 piezas.
 
-- TLD: 2 vaso de Leche de almendras con B12
+- TLD: 2 vaso de Leche de almendras con B12, leche de soja: 1 vaso.
 
 - opt: arroz yamaní, limonada
 
@@ -48,7 +49,8 @@ situaciones de stress, ver gente estresante, café, tés, mates, alcohol.
 - Bajo Stress (reversible!)
 - Pepinillos?
 - Exposiciòn al sol, bronceado (vitamina D, produccion de melanina para protegerse)
-
+- leche de soja (crecimiento de cabello)
+- semilla de zapallo (crecimiento de cabello)
 ## perjudiciales
 - Café (norepinefrina > stress, produce depletion de melanocytes)
 - Stress (idem anterior)
